@@ -1,0 +1,4 @@
+﻿item_name;is_expense;quantity;sum_of_one
+Бумага;FALSE;100;12
+Дверь;TRUE;50;46
+Конфеты;FALSE;10;10

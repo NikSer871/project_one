@@ -1,0 +1,4 @@
+﻿item_name;is_expense;quantity;sum_of_one
+Кровать;TRUE;5;1000
+Стул;FALSE;20;300
+Ковёр;FALSE;10;900
